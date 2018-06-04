@@ -1,4 +1,4 @@
-﻿window.MathJax = {
+window.MathJax = {
 TeX: {
 equationNumbers: {autoNumber: "AMS"},
 Macros: {
@@ -8,7 +8,7 @@ dd: [’{\\frac{\\partial #1}{\\partial #2}}’,2]
 }
 },
 CommonHTML: {
-scale: 200,
+scale: 110,
 mtextFontInherit: true
 }
 }; 
